@@ -60,7 +60,7 @@ Bengaluru-House-Price-Prediction/
 
 1. Clone this repository
    ```
-   git clone https://github.com/YourUsername/Bengaluru-House-Price-Prediction.git
+   git clone https://github.com/bidyabhusanpattanaik/Bengaluru-House-Price-Prediction.git
    ```
 
 2. Install required libraries
